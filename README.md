@@ -1,14 +1,14 @@
 # Student Management System - README
-
+  
 ## Project Planning
-
 ### 1. Project Scope and Objectives
 
-## Project Objectives: Learning and Showcase
+#### Project Objectives: ==Learning and Showcase==
 
-### Project Scope
+#### Project Scope
 
 This project is designed to strike a balance between personal learning and showcasing skills in software development. It involves the creation of a software application while emphasizing the learning process and creating a polished portfolio piece.
+
 
 ### Learning and Skill Development (Objective 1)
 
@@ -69,6 +69,8 @@ Project documentation will include details of the learning process, challenges e
 
 10. **Documentation:**
     - Create comprehensive documentation, including a user manual, code comments, and README file on GitHub.
+
+---
 
 ### 3. Task Prioritization
 - Identify critical tasks for a functional system. Prioritize tasks such as adding students, viewing students, and saving data.

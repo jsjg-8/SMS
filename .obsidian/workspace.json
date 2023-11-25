@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "1c1998118b7e69a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "337a9072b044926c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c102145cbe1a2590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Project_plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "909d54599b8c48b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Data_structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53604368e3324ab8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5632cfa854bbc37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "576a9cf47c466306",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ef249e7cb050218",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a57fdf659a4486e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "11beb01c56a0362c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d890ef4aaf25262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14d1180e848a0069",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Data_structure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45e121fbfba8607f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/Data_structure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "212e93bc824660c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19e148631bc4e5ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/Data_structure.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "909d54599b8c48b8",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
+    "Thoughts.md",
+    "docs/Project_plan.md",
+    "Data_structure.md",
+    "docs/Data_structure.md",
+    "docs",
+    "src/Student_Class.h",
+    "src/SMS.cpp",
+    "src/SMS.h",
+    "src/main.cpp",
+    "src/Student_Class.cpp",
+    "Pasted image 20231102102344.png",
+    "Architecture.canvas",
+    "Project_plan.md",
+    "src/Funcs.cpp",
+    "Untitled Diagram 1.svg",
+    "Untitled Diagram.svg",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2023-10-28 17.16.43.excalidraw.md",
+    "src",
+    "Excalidraw/Drawing 2023-10-29 09.07.53.excalidraw.md",
+    "2023-10-29.md",
+    "Excalidraw"
+  ]
+}
