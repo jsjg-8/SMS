@@ -79,7 +79,7 @@ Project documentation will include details of the learning process, challenges e
 - Create a simplified project plan with a clear one-week timeline.
 - Break down the week into days and allocate specific tasks to each day.
 - Reserve time for testing, bug fixing, and documentation at the end of the week.
-    [Project plan](Project_plan.md)
+    [Project plan](docs/Project_plan.md)
 
 ### 5. Development Environment Setup
 - Choose an IDE and ensure all necessary libraries/tools are installed and configured for C++ development.
