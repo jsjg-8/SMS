@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project_plan.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Data_structure.md",
+                "file": "docs/Project_plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Data_structure.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Data_structure.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Data_structure.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,14 +160,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "909d54599b8c48b8",
+  "active": "c102145cbe1a2590",
   "lastOpenFiles": [
+    "docs/Project_plan.md",
     "README.md",
+    "docs/Data_structure.md",
     "Untitled.md",
     "Thoughts.md",
-    "docs/Project_plan.md",
     "Data_structure.md",
-    "docs/Data_structure.md",
     "docs",
     "src/Student_Class.h",
     "src/SMS.cpp",

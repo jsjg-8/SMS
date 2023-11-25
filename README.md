@@ -85,6 +85,6 @@ Project documentation will include details of the learning process, challenges e
 - Choose an IDE and ensure all necessary libraries/tools are installed and configured for C++ development.
     VSCode
 ### 6. Version Control
-    [Here's the repo]()
+[Here's the repo](https://github.com/jsjg-8/SMS)
 
 
